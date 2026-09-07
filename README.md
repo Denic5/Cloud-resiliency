@@ -41,14 +41,27 @@
 
 *1. Terraform Playbook.*
 ![main](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/main.tf)
+
 ![outputs](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/outputs.tf)
+
 ![user_data](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/user_data.yaml)
+
 ![variables](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/variables.tf)
+
+
 *2. Скриншот статуса балансировщика и целевой группы.*
+
+
 ![terra_start](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/img/terra_start.png)
+
 ![1](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/img/balance1.png)
+
 ![2](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/img/balance2.png)
+
+
 *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
+
+
 ![nginx](https://github.com/Denic5/Cloud-resiliency/blob/06eb2bb366f25706e63010e619e2065865e5e95f/img/nginx.png)
 ---
 
